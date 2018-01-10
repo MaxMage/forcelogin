@@ -21,9 +21,7 @@ Magento® 2 module force login customers
    php bin/magento setup:upgrade
    php bin/magento cache:clean
    ```
+## Configuration
+
 5. Enable the Force Login module in Magento® Admin under *Stores* >
    *Configuration* > *Customers* > *Force Login*.
-   
-## Requirements
-
-1) For Magento® 2.1.x and Magento® 2.2.x
